@@ -1,1 +1,1 @@
-first python contact with chatGPT help
+first python contact debugging with chatGPT
