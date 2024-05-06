@@ -1,0 +1,1 @@
+first python contact with chatGPT help
